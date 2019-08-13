@@ -1,4 +1,4 @@
-# Sles Forecasting
+# Sales Forecasting
 Sales Forecasting (Python)
 # Sales Forecasting Project(Python)
 
